@@ -1,2 +1,2 @@
 # codility
-My anwers to the codility.com problems
+My anwers to codility.com lessons and challenges
